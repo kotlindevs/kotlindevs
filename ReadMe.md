@@ -1,5 +1,5 @@
 # 💫 About Me:
-| Kotlin Enthusiast | <br> | Building innovative Android apps with Kotlin | <br> | Modern Android Development |
+| Android Developer | <br> | Building Innovative Mobile Solutions | <br> | Modern Android Development |
 
 
 ## 🌐 Socials:

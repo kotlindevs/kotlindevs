@@ -1,5 +1,5 @@
 # 💫 About Me:
-| Android Developer | <br> | Building Innovative Mobile Solutions | <br> | Modern Android Development |
+| Android Developer | <br> | Building Innovative Mobile Solutions |
 
 
 ## 🌐 Socials:

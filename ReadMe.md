@@ -1,5 +1,5 @@
 # 💫 About Me:
-Android Developer
+Kotlin Developer
 
 
 ## 🌐 Socials:

@@ -1,5 +1,4 @@
-# 💫 About Me:
-Kotlin Developer
+## 🍭 Kotlin Developer
 
 
 ## 🌐 Socials:

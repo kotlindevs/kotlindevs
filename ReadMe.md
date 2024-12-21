@@ -1,4 +1,5 @@
 ## 🍭 Kotlin Developer
+Hello Developer I'm Criminal Responsible For Pirating All Premium Applications And Websites also I Develop Apps For Clients So Please checkout socials for work.
 
 
 ## 🌐 Socials:
